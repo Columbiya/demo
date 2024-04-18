@@ -13,6 +13,9 @@
     <Compile Update="Pages\EditRequestPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Pages\LeaveRequestPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Pages\RequestListPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -22,6 +25,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\EditRequestPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\LeaveRequestPage.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\RequestListPage.xaml">
